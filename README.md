@@ -16,4 +16,4 @@ Sqlite3
 </li>
 <u>
 <h2> Documentação Inicial <h2>
-<a href="https://www.notion.so/Bio-System-TCG-bd79e1908acc4fa3952a90217d0dcbb0">Clique Aqui</a>
+<a href="https://www.notion.so/BioSystem-TCG-c85e5a92cf6c4068b036cc71130277fd">Clique Aqui</a>

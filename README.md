@@ -12,7 +12,7 @@ CSS
 Python
 </li>
 <li>
-Sqlite3
+MySql
 </li>
 <u>
 <h2> Documentação Inicial <h2>

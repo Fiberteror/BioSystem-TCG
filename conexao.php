@@ -1,7 +1,7 @@
 <?php
     $servidor="localhost";
     $usuario="Fiber";
-    $senha="pastel&carneA2";
+    $senha="hehehe achou que ia passar minha senha aq?";
     $dbname="Usuarios";
 
     $conexao=mysqli_connect($servidor,$usuario,$senha,$dbname);
